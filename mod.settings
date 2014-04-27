@@ -1,0 +1,6 @@
+name        = "Server tickrate tag"
+source_dir  = "source/"
+output_dir  = "output/"
+description = [=[Simple mod that adds tickrate tag to server query output.]=]
+image       = "preview.jpg"
+publish_id = "f1fa14e"

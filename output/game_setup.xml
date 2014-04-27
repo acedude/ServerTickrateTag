@@ -1,0 +1,8 @@
+<game>
+    <name>ns2</name>
+    <description>Server tickrate tag</description>
+	<client>lua/Client.lua</client>
+    <server>lua/ServerTickrateTag.lua</server>
+    <loading>lua/Loading.lua</loading>
+    <soundinfo>sound/NS2.soundinfo</soundinfo>
+</game>
